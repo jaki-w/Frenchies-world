@@ -1,5 +1,6 @@
 h1 {
-  color: green;
+  color: purple;
+  text-align: center;
 }
 
 h2 {
@@ -8,5 +9,9 @@ h2 {
 }
 
 p {
-  font-family: monospace;
+  font-family: georgia;
+}
+
+.header {
+  color: purple;
 }
