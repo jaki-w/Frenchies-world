@@ -10,8 +10,24 @@ h2 {
 
 p {
   font-family: georgia;
+  font-style: italic;
+  font-size: 20px;
+}
+
+ul {
+  font-size: 18px
+}
+
+ol{
+  font-size: 18px
 }
 
 .header {
   color: purple;
+  font-size: 25px
+}
+
+.main-header {
+  color: purple;
+  font-size: 40px
 }
