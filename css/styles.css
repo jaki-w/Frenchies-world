@@ -31,3 +31,10 @@ ol{
   color: purple;
   font-size: 40px
 }
+.items {
+  color: blue;
+}
+
+.person {
+  font-weight: bold
+}
